@@ -1,0 +1,43 @@
+.heading {
+    text-align: center;
+}
+
+.cont {
+    margin: 0px 70px;
+}
+
+.rw {
+    display: flex;
+    justify-content: center;
+}
+
+.cl {
+    width: 5%;
+    height: 60px;
+    background-color: blue;
+    margin: 5px 10px;
+    cursor: pointer;
+}
+
+.num {
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.red {
+    background-color: red;
+    width: 10%;
+}
+
+.output {
+    height: 60px;
+    background-color: gray;
+    width: 25%;
+    align-self: center;
+    font-size: xx-large;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-left: 10px;
+}
